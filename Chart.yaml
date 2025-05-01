@@ -1,0 +1,5 @@
+apiVersion: v2
+name: test-privilege-escalation
+description: A Helm chart to test privilege escalation using HelmRelease in HUB cluster
+type: application
+version: 1.0.0
